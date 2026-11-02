@@ -2,9 +2,7 @@
 
 A compact, colorful status line for [Claude Code](https://docs.claude.com/en/docs/claude-code/statusline) that shows your context usage, how many times the conversation was compacted, your 5-hour and 7-day rate-limit usage with reset times, and the current model with its effort level.
 
-```
-📁 ~/my-project 🌿 main   📖 ██████░░░░ 55% 📦2   5h ██████░░ 78% ↻05:20  7d ████████ 95% ↻Thu 02:00   🤖 Opus 4.8 ⚡High
-```
+![claude-statusline in Claude Code](assets/screenshot.png)
 
 Single file, zero dependencies, Node.js only.
 
