@@ -1,4 +1,4 @@
-# claude-statusline
+# Claude Code Status-Line
 
 A compact, colorful status line for [Claude Code](https://docs.claude.com/en/docs/claude-code/statusline) that shows your context usage, how many times the conversation was compacted, your 5-hour and 7-day rate-limit usage with reset times, and the current model with its effort level.
 
